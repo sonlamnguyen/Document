@@ -1,0 +1,2 @@
+
+sudo /usr/bin/modem3g/sakis3g --interactive --sudo MENU="CONNECT" APN="internet" USBINTERFACE="0" USBDRIVER="option" USBMODEM="12d1:1436" OTHER="USBMODEM" MODEM="OTHER" DISPLAY=":0" LOCALAUTHORITY="/home/pi/.Xauthority" APN_USER="smarthome" APN_PASS="smarthome"
